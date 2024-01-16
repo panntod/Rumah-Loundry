@@ -10,7 +10,7 @@ Langkah 1: Persiapan Awal
 
 Langkah 2: Aktivasi Server Web
 
-1. Aktifkan server web menggunakan platform seperti LAMP, XAMPP, WAMPP, dsb.
+1. Aktifkan server web menggunakan platform seperti XAMPP, dsb.
 2. Nyalakan layanan Apache dan MySQL.
 
 Langkah 3: Pengaturan Database
